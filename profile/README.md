@@ -52,7 +52,7 @@ Your warehouse stays the center of gravity — Snowflake, Databricks, GCP, AWS, 
 ## Get started
 
 ```bash
-pip install tabsdata
+pip install "tabsdata[all]"
 ```
 
 Then follow the [getting started guide](https://docs.tabsdata.com/guide) or work through the [tutorials](https://docs.tabsdata.com/tutorials) — installation to your first dataflow.
